@@ -3,7 +3,6 @@ print("The biggest numer is ",max(numsList))
 print("The smallest number is ",min(numsList))
 print("The average is ",sum(numsList)/len(numsList))
 
-
 stringsList = ["abc", "123", "2332", "aBBA", "heelloo", "1212", "DcEfD"]
 
 def count_same_start_end(strings):
